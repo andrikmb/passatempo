@@ -1,0 +1,14 @@
+{
+  "name": "app3",
+  "version": "1.0.0",
+  "description": "app3 made with Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrik Machado Batista",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/cli": "^4.5.6",
+    "jquery": "^3.5.1",
+   
