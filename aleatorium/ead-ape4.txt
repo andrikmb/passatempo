@@ -1,0 +1,15 @@
+1-qual a importancia?
+2-o que é? (conceito)
+3-para que serve? (demonstrar o proposito)
+4-como funciona? (aplicabilidade+exemplos)
+5-onde é utilizado? (mencionar empresas e setores que utilizam)
+
+cada um dos CINCO tópicos tem que ter entre 250 e 400 caracteres.
+separar em introdução e desenvolvimento.
+
+
+Gestão de projetos com PMBOK
+Governança de TI
+Gerenciamento de serviços de TI 
+Segurança de Redes
+Ferramentas de monitoramento de redes
