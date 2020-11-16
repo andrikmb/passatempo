@@ -15,6 +15,12 @@ Gestão de projetos com PMBOK
 3-para que serve? (demonstrar o proposito)
 4-como funciona? (aplicabilidade+exemplos)
 5-onde é utilizado? (mencionar empresas e setores que utilizam)
+referências:
+<autor>. <titulo>. <informações complementares>. "Disponível em:"<url>. 
+"Acesso em:" <dia>/<mes>/<ano>
+
+
+
 
 Governança de TI
 
