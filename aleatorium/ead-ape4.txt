@@ -19,6 +19,10 @@ referências:
 <autor>. <titulo>. <informações complementares>. "Disponível em:"<url>. 
 "Acesso em:" <dia>/<mes>/<ano>
 
+#1 <Murilo Santos>. <O que é o PMBOK no Gerenciamento de Projetos?>.
+<Blog de gestão de Projetos, 21 de fevereiro de 2018>. 
+"Disponível em:"<https://www.fm2s.com.br/o-que-e-o-pmbok/>. 
+"Acesso em:" 15/11/2020
 
 
 
