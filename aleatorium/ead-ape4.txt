@@ -11,8 +11,13 @@ separar em introdução e desenvolvimento.
 Gestão de projetos com PMBOK
 
 1-qual a importancia?
+    usar experiencias de sucesso na divisão de tarefas de maneiras organizadas
 2-o que é? (conceito)
+    aplicação de tecnicas e ferramentas afim de se concluir o projeto dentro do prazo, 
+    com a maior eficiencia e eficácia.
 3-para que serve? (demonstrar o proposito)
+    reduzir o desperdicio de recursos no decorrer do projetos, visando um desenvolvimento 
+    mais prático e eficiente.
 4-como funciona? (aplicabilidade+exemplos)
 5-onde é utilizado? (mencionar empresas e setores que utilizam)
 referências:
@@ -23,6 +28,11 @@ referências:
 <Blog de gestão de Projetos, 21 de fevereiro de 2018>. 
 "Disponível em:"<https://www.fm2s.com.br/o-que-e-o-pmbok/>. 
 "Acesso em:" 15/11/2020
+
+#2 <CAE Treinamentos>. <Entenda AGORA o que é Six Sigma na prática!>. 
+<O Lean Six Sigma é uma estratégia gerencial disciplinada que tem como objetivo aumentar a lucratividade das empresas>.
+ "Disponível em:"<https://www.youtube.com/watch?v=zC3X0adLz_U>. 
+"Acesso em:" <16>/<11>/<2020>
 
 
 
