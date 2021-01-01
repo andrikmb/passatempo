@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to noname's documentation!
-==================================
+Bem vindo à documentação noname!
+================================
 
 .. toctree::
    :maxdepth: 2
@@ -12,8 +12,8 @@ Welcome to noname's documentation!
 
 
 
-Indices and tables
-==================
+Índices e tabelas
+=================
 
 * :ref:`genindex`
 * :ref:`modindex`
