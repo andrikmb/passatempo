@@ -8,8 +8,8 @@
 Gestão de projetos com PMBOK
 
 1-qual a importancia?
-    usar experiencias de sucesso na divisão de tarefas de maneiras organizadas a fim de concluir as fases do projeto, incorporando 
-    novas tecnicas que consigam melhorar o andamento de um projeto e de ouros futuros.
+
+    usar experiencias de sucesso na divisão de tarefas de maneiras organizadas a fim de concluir as fases do projeto, incorporando novas tecnicas que consigam melhorar o andamento de um projeto e de ouros futuros.
 
     assim como nem todas as ideias funcionam, ou são aplicáveis em todos os casos, cabe ao gestor do projeto decidir 
     quais tecnicas e ferramantes são aplicáveis em cada caso, ou fase do projeto, com o intuito de terminar o projeto
@@ -44,22 +44,22 @@ Gestão de projetos com PMBOK
 4-como funciona? (aplicabilidade+exemplos)
 
 	conceito (demanda ou ideia)
-		+-- coletas de dados
-			+--brainstorming
-			+--grupos de discução
-			+--reuniões
+	   +-- coletas de dados
+	   +--brainstorming
+	   +--grupos de discução
+	   +--reuniões
 	fatores ambientais da empresa
-		+-- padrões governamentais
-		+-- requisitos legais
-		+-- cultura da empresa
-	plano de gerenciamento de beneficios ( --documento)
-	estudos de viabilidade (bussines case --documento)
-	termo de abertura ( --documento)
-		+--contratos
-		+--memorandos de entendimento
-		+--acordos de nivel de serviço (mais visto nas grandes empresas)
-		+--registro de premissas
-	plano de gerenciamento do projeto ( --documento)
+	   +-- padrões governamentais
+	   +-- requisitos legais
+	   +-- cultura da empresa
+	plano de gerenciamento de beneficios
+	estudos de viabilidade (bussines case)
+	termo de abertura 
+   	   +--contratos
+	   +--memorandos de entendimento
+	   +--acordos de nivel de serviço
+	   +--registro de premissas
+	plano de gerenciamento do projeto
 	execução dos trabalhos
 	conclusão do projeto
 
